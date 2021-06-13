@@ -19,7 +19,7 @@ body{
 }
 header{
     background:var(--dark);
-    height:800px;
+
 
 }
 .container{
@@ -45,4 +45,16 @@ header nav{
 
 header nav .branding{
     margin-right: 3rem;
+}
+
+.hero .leftnimg{
+    width: 400px;
+}
+
+.hero .right{
+    color:var(--pure);
+}
+
+.hero .right h6{
+    font-size: 1.6rem;
 }
